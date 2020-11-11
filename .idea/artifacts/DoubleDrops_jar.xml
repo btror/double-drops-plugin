@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DoubleDrops:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DoubleDrops_jar</output-path>
+    <root id="archive" name="DoubleDrops.jar">
+      <element id="module-output" name="DoubleDrops" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/MinecraftServer-local/spigot-1.16.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
